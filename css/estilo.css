@@ -1,0 +1,54 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:cornsilk;
+    text-align: center;
+    line-height: 1.5;
+}
+
+
+h1 {
+    color:white;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+video, iframe {
+    width: 300px;
+    height: 200px;
+    border: none;
+}
+
+.logo {
+    position: fixed;
+    top: 10px; 
+    right: 10px; 
+    width: 100px; 
+    height: auto; 
+    z-index: 9999; 
+}
+
+h1, h2 ,h4, p {
+    margin: 10px;
+}
+
+.enlace {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+}
+
+h3 {
+    text-align: left;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #007acc;
+    color: #fff;
+}
+
